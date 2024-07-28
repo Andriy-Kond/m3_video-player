@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/m3_video-player/static/js/main.554f342d.js",
+    "main.js": "/m3_video-player/static/js/main.bf7247fc.js",
     "index.html": "/m3_video-player/index.html",
-    "main.554f342d.js.map": "/m3_video-player/static/js/main.554f342d.js.map"
+    "main.bf7247fc.js.map": "/m3_video-player/static/js/main.bf7247fc.js.map"
   },
   "entrypoints": [
-    "static/js/main.554f342d.js"
+    "static/js/main.bf7247fc.js"
   ]
 }

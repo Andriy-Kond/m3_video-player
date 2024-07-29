@@ -1,5 +1,13 @@
+import { GlobalStyle } from "./GlobalStyle";
+import { VideoPlayer } from "./VideoPlayer";
+
 function App() {
-  return <div>Hello</div>;
+  return (
+    <>
+      <GlobalStyle />
+      <VideoPlayer />
+    </>
+  );
 }
 
 export default App;
